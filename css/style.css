@@ -1,0 +1,49 @@
+body
+{
+  font-family: Montserrat;
+background-color: #393E46;
+color: #4ECCA3;
+}
+.container{
+  text-align: center;
+}
+.main-heading
+{
+  margin: 30px;
+    font-size: 8rem;
+
+
+font-family: Lobster, cursive;
+}
+.players
+{
+  font-size: 2rem;
+  margin: 30px auto;
+  font-family: 'Indie Flower', cursive;
+}
+/* dices */
+.dices
+{
+  width:150px;
+}
+footer
+{
+  margin: 100px auto;
+}
+.result
+{
+  margin:30px;
+}
+
+.btn {
+margin: 20px auto 0;
+  padding: 15px 30px 15px 30px;
+  background-color: yellow;
+  color: red;
+  border-radius: 4px;
+}
+.versus
+{
+
+  font-size: 2rem;
+}
